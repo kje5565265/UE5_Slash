@@ -68,8 +68,13 @@ Build/*/**
 Saved/
 
 # Compiled source files for the engine to use
+Intermediate/
 Intermediate/*
 Plugins/**/Intermediate/*
+
+# 💡 GitHub 100MB 제한을 초과하는 Rider 관련 임시 파일 경로를 명시적으로 추가
+Intermediate/ProjectFiles/.Rider/
+.vs/
 
 # Cache files for the editor to use
 DerivedDataCache/
