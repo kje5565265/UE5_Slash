@@ -1,6 +1,8 @@
 #pragma once
 
+#include "CoreMinimal.h"
 #include "DrawDebugHelpers.h"
+#include "Engine/World.h"
 
 FORCEINLINE void DrawSphere(const UWorld *World, const FVector &Location) {
   if (World) {
@@ -19,5 +21,13 @@ FORCEINLINE void DrawLine(const UWorld *World, const FVector &StartLocation,
 FORCEINLINE void DrawPoint(const UWorld *World, const FVector &Location) {
   if (World) {
     DrawDebugPoint(World, Location, 15.f, FColor::Red, true, -1.f, 0);
+  }
+}
+
+FORCEINLINE void DrawVector(const UWorld *World, const FVector &Location,
+                            const FVector &LineEnd) {
+  if (World) {
+    DrawDebugLine(World, Location, LineEnd, FColor::Red, true, -1.f, 0, 1.f);
+    DrawDebugPoint(World, LineEnd, 15.f, FColor::Red, true, -1.f, 0);
   }
 }
