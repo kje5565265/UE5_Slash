@@ -1,0 +1,674 @@
+[
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/Module.ProjectSlash.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/Module.ProjectSlash.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/Module.ProjectSlash.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/RD.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/Lifetime.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Lifetime.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Lifetime.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeDefinition.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeDefinition.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeDefinition.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeImpl.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeImpl.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeImpl.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/SequentialLifetimes.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SequentialLifetimes.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SequentialLifetimes.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalCookie.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SignalCookie.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SignalCookie.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/types/DateTime.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/DateTime.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/DateTime.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IProtocol.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IProtocol.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IProtocol.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IRdWireable.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IRdWireable.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IRdWireable.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/ISerializersOwner.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ISerializersOwner.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ISerializersOwner.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/IUnknownInstance.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IUnknownInstance.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IUnknownInstance.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdBindableBase.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdBindableBase.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdBindableBase.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/RdReactiveBase.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdReactiveBase.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdReactiveBase.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/base/WireBase.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/WireBase.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/WireBase.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/ExtWire.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ExtWire.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ExtWire.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/ext/RdExtBase.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdExtBase.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdExtBase.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/impl/RName.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RName.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RName.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternRoot.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/InternRoot.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/InternRoot.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/intern/InternScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/InternScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/InternScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Buffer.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Buffer.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Buffer.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Identities.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Identities.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Identities.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/MessageBroker.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/MessageBroker.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/MessageBroker.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/Protocol.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Protocol.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Protocol.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/protocol/RdId.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdId.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdId.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SimpleScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SimpleScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SimpleScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SingleThreadScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SingleThreadScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SingleThreadScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SynchronousScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SynchronousScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/IScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/IScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/base/SingleThreadSchedulerBase.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SingleThreadSchedulerBase.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SingleThreadSchedulerBase.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/DefaultAbstractDeclaration.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/DefaultAbstractDeclaration.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/DefaultAbstractDeclaration.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/ISerializable.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ISerializable.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ISerializable.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Polymorphic.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Polymorphic.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Polymorphic.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/RdAny.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdAny.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdAny.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/SerializationCtx.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SerializationCtx.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SerializationCtx.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/serialization/Serializers.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Serializers.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Serializers.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/hashing.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/hashing.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/hashing.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/util/thread_util.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/thread_util.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/thread_util.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/ByteBufferAsyncProcessor.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ByteBufferAsyncProcessor.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ByteBufferAsyncProcessor.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/PkgInputStream.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PkgInputStream.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PkgInputStream.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/PumpScheduler.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PumpScheduler.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PumpScheduler.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/SocketWire.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SocketWire.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SocketWire.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/WireUtil.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/WireUtil.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/WireUtil.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/src/rd_gen_cpp/src/RdTextBuffer.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdTextBuffer.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RdTextBuffer.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/ActiveSocket.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ActiveSocket.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/PassiveSocket.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PassiveSocket.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/PassiveSocket.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/clsocket/src/SimpleSocket.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SimpleSocket.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/SimpleSocket.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/countdownlatch/countdownlatch.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/countdownlatch.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/countdownlatch.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/async.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/async.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/async.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/cfg.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/cfg.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/color_sinks.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/color_sinks.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/color_sinks.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/file_sinks.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/file_sinks.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/file_sinks.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/fmt.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/fmt.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/fmt.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/spdlog.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/spdlog.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/spdlog.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/src/stdout_sinks.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/stdout_sinks.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/stdout_sinks.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RD/thirdparty/thirdparty.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/thirdparty.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/thirdparty.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderBlueprint/Private/BlueprintProvider.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/BlueprintProvider.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/BlueprintProvider.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderBlueprint/Private/RiderBlueprint.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/RiderBlueprint.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/RiderBlueprint.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/BlueprintStackGetter.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/BlueprintStackGetter.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/BlueprintStackGetter.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/DebugLogger.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/DebugLogger.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/DebugLogger.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/RiderDebuggerSupport.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/RiderDebuggerSupport.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/RiderDebuggerSupport.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/UnrealFunctions.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/UnrealFunctions.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/UnrealFunctions.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/WideStringWrapper.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/WideStringWrapper.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/WideStringWrapper.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderGameControl/Private/RiderGameControl.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/RiderGameControl.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/RiderGameControl.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLC/Private/RiderLC.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/RiderLC.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/RiderLC.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ProtocolFactory.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ProtocolFactory.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RiderLink.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RiderLink.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UE4TypesMarshallers.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UE4TypesMarshallers.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintFunction.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintFunction.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintHighlighter.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintHighlighter.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintReference.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/BlueprintReference.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ConnectionInfo.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ConnectionInfo.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/EmptyScriptCallStack.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/EmptyScriptCallStack.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptCallStack.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptCallStack.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptCallStack_Unknown.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptCallStack_Unknown.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptMsg.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptMsg.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptMsg_Unknown.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/IScriptMsg_Unknown.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/LogMessageInfo.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/LogMessageInfo.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/NotificationType.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/NotificationType.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/PlayState.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/PlayState.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestFailed.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestFailed.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestResultBase.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestResultBase.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestResultBase_Unknown.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestResultBase_Unknown.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestSucceed.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RequestSucceed.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptCallStack.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptCallStack.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptCallStackFrame.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptCallStackFrame.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptMsgCallStack.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptMsgCallStack.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptMsgException.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ScriptMsgException.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/StringRange.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/StringRange.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UClass.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UClass.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UE4Library.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UE4Library.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnableToDisplayScriptCallStack.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnableToDisplayScriptCallStack.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealLogEvent.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/UnrealLogEvent.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/instantiations_UE4Library.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/instantiations_UE4Library.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/LiveCodingModel/LiveCodingModel.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/LiveCodingModel.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/LiveCodingModel.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RdEditorModel.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RdEditorModel.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Pregenerated.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RdEditorRoot.Pregenerated.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RdEditorRoot.Pregenerated.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/instantiations_RdEditorRoot.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/instantiations_RdEditorRoot.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderLogging.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderLogging.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderLogging.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderOutputDevice.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLogging/RiderOutputDevice.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Source/RiderShaderInfo/RiderShaderInfo.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/RiderShaderInfo.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/RiderShaderInfo.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Source/ProjectSlash/Private/Items/Item.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/Item.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/Item.cpp.obj"
+	},
+	{
+		"file": "C:/UE5/UE5_Slash/ProjectSlash/Source/ProjectSlash/ProjectSlash.cpp",
+		"command": "\"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/ProjectSlash.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.7/Engine/Source",
+		"output": "C:/UE5/UE5_Slash/ProjectSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectSlash/ProjectSlash.cpp.obj"
+	}
+]
