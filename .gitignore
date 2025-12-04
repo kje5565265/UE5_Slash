@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.pdb
 
 # Precompiled Headers
 *.gch
@@ -78,3 +79,18 @@ Intermediate/ProjectFiles/.Rider/
 
 # Cache files for the editor to use
 DerivedDataCache/
+
+# -------------------------------------------------------------------------
+# Additional Items (Recommended)
+# -------------------------------------------------------------------------
+
+# Log and Crash Files
+*.log
+*.dmp
+
+# Xcode/Mac Generated Folders
+# Although *.xcodeproj and *.xcworkspace are already listed, 
+# explicitly ignoring the folder contents is sometimes necessary.
+# If they are not already listed, ensure these are included:
+# *.xcodeproj/
+# *.xcworkspace/
