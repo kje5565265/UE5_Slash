@@ -1,28 +1,20 @@
 #include "Items/Item.h"
 #include "DebugMacros.h"
-#include "ProjectSlash/ProjectSlash.h"
-
-#define THIRTY 30
+#include "DrawDebugHelpers.h"
+#include "Math/MathFwd.h"
 
 AItem::AItem() { PrimaryActorTick.bCanEverTick = true; }
 
-void AItem::BeginPlay() {
-  Super::BeginPlay();
-
-  UWorld *World = GetWorld();
-  FVector Location = GetActorLocation();
-  DrawSphere(World, Location);
-
-  // DrawPoint(World, Location + GetActorForwardVector() * 100.f);
-  DrawVector(World, Location, Location + GetActorForwardVector() * 100.f);
-}
-
-constexpr float LineLength = 100.f;
+void AItem::BeginPlay() { Super::BeginPlay(); }
 
 void AItem::Tick(float DeltaTime) {
   Super::Tick(DeltaTime);
 
-  //   const FVector StartLocation = GetActorLocation();
-  //   const FVector LineEnd = StartLocation + GetActorForwardVector() *
-  //   LineLength; DrawLine(GetWorld(), StartLocation, LineEnd);
+  float movementRate = 50.f;
+  AddActorWorldOffset(FVector(movementRate * DeltaTime, 0.f, 0.f));
+  AddActorWorldRotation(FRotator(0.f, movementRate * DeltaTime, 0.f));
+
+  DrawSphereSingleFrame(GetWorld(), GetActorLocation());
+  DrawVectorSingleFrame(GetWorld(), GetActorLocation(),
+                        GetActorLocation() + GetActorForwardVector() * 100.f);
 }

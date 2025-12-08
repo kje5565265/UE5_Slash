@@ -5534,6 +5534,18 @@
 		{
 			"Path": "$(ProjectDir)/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UnrealMCP/Binaries/Win64/UnrealEditor-UnrealMCP.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UnrealMCP/Binaries/Win64/UnrealEditor-UnrealMCP.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UnrealMCP/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -31126,6 +31138,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/UnrealMCP/UnrealMCP.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/ProjectSlash.uproject",
 			"Type": "UFS"
 		}
@@ -31338,6 +31354,7 @@
 		"UVEditor",
 		"UbaController",
 		"UdpMessaging",
+		"UnrealMCP",
 		"VariantManager",
 		"VariantManagerContent",
 		"VisualStudioCodeSourceCodeAccess",
